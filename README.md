@@ -11,4 +11,3 @@
 - Ketik <code>php artisan migrate</code>
 - Jalankan dengan <code>php artisan serve</code>
 - Buka browser dan ketik <code>http://127.0.0.1:8000/posts</code>
-test
